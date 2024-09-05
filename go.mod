@@ -1,3 +1,3 @@
-module github.com/HalliS20/Go-Game
+module go-game
 
 go 1.22.5
